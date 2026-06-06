@@ -2,8 +2,6 @@
 **Técnico Superior en Seguridad Informática | Analista GRC & DevSecOps**
 
 📍 Disponibilidad para relocalización inmediata a CABA
-📧 teo.londero2000@gmail.com | 📱 +54 9 343 417-4093
-🔗 [LinkedIn](TU_LINK_A_LINKEDIN) | 💻 [GitHub](TU_LINK_A_GITHUB)
 
 ---
 
